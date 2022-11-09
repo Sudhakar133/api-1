@@ -1,0 +1,20 @@
+i{
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+.bg-light {
+    background-color: rgb(255, 72, 0)!important;
+}
+span{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    background-color: rgba(85, 248, 235, 0.433);
+}
+.card{
+    margin-top: 30px;
+    border: 1px solid rgb(136, 255, 0);
+}
